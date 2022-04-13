@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Developer.
+- 👀 I’m interested in writting code
+- 🌱 I’m currently learning C++ and HTML
